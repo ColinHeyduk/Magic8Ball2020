@@ -24,7 +24,7 @@
                                             <attributes>
                                                 <color key="NSBackgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <color key="NSColor" red="1" green="0.0" blue="0.048309613321362299" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                                <font key="NSFont" size="31" name=".AppleSystemUIFont"/>
+                                                <font key="NSFont" metaFont="system" size="31"/>
                                                 <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
                                             </attributes>
                                         </fragment>
@@ -46,11 +46,11 @@
                                 <color key="backgroundColor" red="0.15544920030000001" green="0.737735217" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <color key="tintColor" systemColor="systemGreenColor" red="0.20392156859999999" green="0.78039215689999997" blue="0.34901960780000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <attributedString key="attributedText">
-                                    <fragment content="question me">
+                                    <fragment content="what's going on?">
                                         <attributes>
                                             <color key="NSBackgroundColor" red="0.055394725240107134" green="0.98484242253188337" blue="1" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                                             <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
-                                            <font key="NSFont" size="25" name=".AppleSystemUIFont"/>
+                                            <font key="NSFont" metaFont="system" size="25"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="truncatingHead" baseWritingDirection="leftToRight" tighteningFactorForTruncation="0.0"/>
                                         </attributes>
                                     </fragment>

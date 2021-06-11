@@ -39,45 +39,85 @@ class ViewController: UIViewController {
         print(randomInt)
         
         var response = ""
+//        if randomInt == 1
+//        {
+//            response = "naw dawg"
+//        }
+//        else if randomInt == 2
+//        {
+//            response = "that's funny"
+//        }
+//        else if randomInt == 3
+//        {
+//            response = "bro what lol"
+//        }
+//        else if randomInt == 4
+//        {
+//            response = "possibly"
+//        }
+//        else if randomInt == 5
+//        {
+//            response = "stop asking me questions!"
+//        }
+//        else if randomInt == 6
+//        {
+//            response = "you know what, yea maybe"
+//        }
+//        else if randomInt == 7
+//        {
+//            response = "delete this app"
+//        }
+//        else if randomInt == 8
+//        {
+//            response = "get out"
+//        }
+//        else if randomInt == 9
+//        {
+//            response = "you wish"
+//        }
+//        else if randomInt == 10
+//        {
+//            response = "the text is red"
+//        }
         if randomInt == 1
         {
-            response = "naw dawg"
+            response = "that's good"
         }
         else if randomInt == 2
         {
-            response = "that's funny"
+            response = "i'm happy for you"
         }
         else if randomInt == 3
         {
-            response = "bro what lol"
+            response = "go live your dream"
         }
         else if randomInt == 4
         {
-            response = "possibly"
+            response = "you got this"
         }
         else if randomInt == 5
         {
-            response = "stop asking me questions!"
+            response = "trust me you can do it"
         }
         else if randomInt == 6
         {
-            response = "you know what, yea maybe"
+            response = "i believe in you"
         }
         else if randomInt == 7
         {
-            response = "delete this app"
+            response = "aye good stuff"
         }
         else if randomInt == 8
         {
-            response = "get out"
+            response = "yes you can"
         }
         else if randomInt == 9
         {
-            response = "you wish"
+            response = "i'm proud of you"
         }
         else if randomInt == 10
         {
-            response = "the text is red"
+            response = "you will succeed"
         }
        let question = MyTextField.text
     
